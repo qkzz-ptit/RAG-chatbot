@@ -1,5 +1,3 @@
-"""Responsive Streamlit chat interface for PTIT."""
-
 import streamlit as st
 
 from . import config as _config
