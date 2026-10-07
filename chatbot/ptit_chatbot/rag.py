@@ -1,5 +1,3 @@
-"""Shared retrieval-augmented generation pipeline."""
-
 from pathlib import Path
 import time
 
