@@ -5,7 +5,7 @@ from .rag import answer_question
 def main() -> None:
     print("\nCHATBOT PTIT SẴN SÀNG")
     try:
-        # Build the index before entering the prompt loop so setup errors are clear.
+        
         from .rag import build_rag_chain
 
         rag_chain = build_rag_chain()
