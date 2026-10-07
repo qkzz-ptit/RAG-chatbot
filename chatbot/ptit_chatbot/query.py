@@ -20,7 +20,11 @@ ABBREVIATIONS = {
     "đh": "đại học",
     "dh": "đại học",
     "sv": "sinh viên",
-    "hvan": "học viện",
+    "hv": "học viện",
+    "t" : "tôi",
+    "m" : "mày",
+    "b" : "bạn",
+    "bn" : "bạn",
 }
 
 _ABBREVIATION_PATTERN = re.compile(
