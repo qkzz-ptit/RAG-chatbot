@@ -1,5 +1,3 @@
-"""Small, bounded live search over PTIT's official WordPress sites."""
-
 import json
 import re
 import urllib.error
